@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.btn {
+  margin-top: 10px;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.arrow-img {
+  height: 35px;
+  width: 40px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 5px;
+}
